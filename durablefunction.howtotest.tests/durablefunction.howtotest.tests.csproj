@@ -19,4 +19,8 @@
       <ProjectReference Include="..\durablefunction.howtotest\durablefunction.howtotest.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="helper" />
+    </ItemGroup>
+
 </Project>
